@@ -18,6 +18,18 @@
       "marketplaceID": "49963806",
       "screenshots": [
         "https://raw.githubusercontent.com/JesseHoekema/AltstoreApps/main/ssrobo1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2025-04-13",
+          "localizedDescription": "First AltStore release of RoboChat!",
+          "downloadURL": "https://github.com/JesseHoekema/AltstoreApps/releases/download/robochat/RoboChat.ipa",
+          "size": 58049,
+          "minOSVersion": "17.2",
+          "maxOSVersion": "18.4"
+        }
       ]
     }
   ]
