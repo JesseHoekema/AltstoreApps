@@ -10,7 +10,7 @@
       "versionDate": "2025-04-13",
       "versionDescription": "- First release",
       "downloadURL": "https://github.com/JesseHoekema/AltstoreApps/releases/download/robochat/RoboChat.ipa",
-      "iconURL": "https://yourdomain.com/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/JesseHoekema/AltstoreApps/refs/heads/main/robochat_logo_app.png",
       "tintColor": "#f4f4f9"
     }
   ]
