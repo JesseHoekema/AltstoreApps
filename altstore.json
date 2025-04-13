@@ -21,7 +21,7 @@
       ],
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2025-04-13",
           "localizedDescription": "First AltStore release of RoboChat!",
