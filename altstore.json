@@ -12,7 +12,8 @@
       "downloadURL": "https://github.com/JesseHoekema/AltstoreApps/releases/download/robochat/RoboChat.ipa",
       "iconURL": "https://raw.githubusercontent.com/JesseHoekema/AltstoreApps/refs/heads/main/robochat_logo_app.png",
       "tintColor": "#f4f4f9",
-      "localizedDescription": "Use The RoboChat App To Quickly Ask Things To The Best Ai Chatbot."
+      "localizedDescription": "Use The RoboChat App To Quickly Ask Things To The Best Ai Chatbot.",
+      "size": 58049
     }
   ]
 }
