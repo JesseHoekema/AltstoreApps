@@ -1,0 +1,17 @@
+{
+  "name": "Jesse Hoekema",
+  "identifier": "com.jh.jessehoekema",
+  "apps": [
+    {
+      "name": "RoboChat",
+      "bundleIdentifier": "com.jh.robochat",
+      "developerName": "Jesse Hoekema",
+      "version": "1.0.0",
+      "versionDate": "2025-04-13",
+      "versionDescription": "- First release",
+      "downloadURL": "https://yourdomain.com/MyApp.ipa",
+      "iconURL": "https://yourdomain.com/icon.png",
+      "tintColor": "#f4f4f9"
+    }
+  ]
+}
