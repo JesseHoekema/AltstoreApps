@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "RoboChat",
-      "bundleIdentifier": "com.jh.RoboChat",
+      "bundleIdentifier": "jh.RoboChat",
       "developerName": "Jesse Hoekema",
       "version": "1.0.0",
       "versionDate": "2025-04-13",
