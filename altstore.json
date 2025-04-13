@@ -13,7 +13,8 @@
       "iconURL": "https://raw.githubusercontent.com/JesseHoekema/AltstoreApps/refs/heads/main/robochat_logo_app.png",
       "tintColor": "#f4f4f9",
       "localizedDescription": "Use The RoboChat App To Quickly Ask Things To The Best Ai Chatbot.",
-      "size": 58049
+      "size": 58049,
+      "marketplaceID": "com.jh.robochat.7ebf47d571d24155b8027e4d4d759a19"
     }
   ]
 }
